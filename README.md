@@ -1,51 +1,36 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Projeto "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas"
 
-## 🚀 Introdução
+Meu Projeto com IA generativa com imagens
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto: "Sylvanian Families Christmas"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Demonstração da alteração de uma imagem qualquer, no caso, uma da internet, usando IA generativa.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi utilizado o site Photoroom (https://www.photoroom.com/pt-br). A presente foto é uma demonstração do que mesmo a versão free pode fazer nas nossas atividades.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Após a escolha e download da imagem na internet, deve ser criada uma conta no site da Photoroom.
+Em seguida, realize o upload da foto. O site automaticamente reconheceu os itens principais da foto e removeu o fundo (o original era um bosque), deixando-o branco.
+O site apresenta uma série de sugestões de temas para aplicar ao fundo da foto. Eu escolhi como tema do fundo "Natal". Mas há tamém uma aba para descrever para a IA do site o que se pretende para o fundo.
+A versão free apresenta apenas uma sugestão, outras três são mostradas mas se deve ter uma conta PRO do site para usá-los, o que habilita novas interações com a IA a fim de possibilitar novas imagens ainda mais personalizadas. 
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+### 🚀 Resultados
+Veja abaixo a foto editada:
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+![Sylvanie Families editado-Photoroom](https://github.com/user-attachments/assets/1a72bcf3-42c5-4afc-97c8-76403337befc)
 
-### Exemplos e Insigths
+e também pelo seguinte link: https://drive.google.com/file/d/1qDxYuXhh_XHY57hBU9PUnKuKcXWUX0r7/view?usp=sharing
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+#### 💭 Reflexão
+Realmente surpreendeu a facilidade com que a IA apresenta as fotos modificadas, que são facilmente confundidadas com fotos reais.
 
-## Links Interessantes
+Para comparação, veja abaixo a foto original:
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+![Sylvanie Families](https://github.com/user-attachments/assets/beb94890-32a3-43d3-b294-5be5a01064b2)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
+## Links Interessantes para projeto semelhante
+
+https://www.photoroom.com/pt-br
